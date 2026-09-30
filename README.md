@@ -6,16 +6,16 @@ Java · Python · C++ · TypeScript · JavaScript · React Native · Expo
 
 ## Selected projects
 
-| Project | What I built |
-| --- | --- |
-| [Unplugged](https://github.com/MohammadSyed18/Unplugged) | A mobile focus timer with session states, interruption tracking, adaptive recommendations, and weekly analytics. React Native / Expo. |
-| [BridgeAI](https://github.com/MohammadSyed18/BridgeAI) | School notices turned into cited answers, deadlines, and next steps. Local retrieval with English/Spanish query normalization. |
-| [LocalLens](https://github.com/MohammadSyed18/LocalLens) | Community notices condensed into personalized briefings, with source attribution, duplicate detection, and accessible output. |
-| [Vanguard26](https://github.com/MohammadSyed18/Vanguard26) | Java code for our community FTC team: mecanum drive, mechanism controls, and Pedro Pathing autonomous routines. |
-| [ARISE](https://github.com/MohammadSyed18/ARISE-experiment) | Evidence graphs, validated belief revision, confidence aggregation, and round-level evaluation. |
-| [AccessPath](https://github.com/MohammadSyed18/AccessPath) | Constraint-aware routing and multi-stop itineraries, with mobility profiles and accessible directions. |
-| [PlannerAI](https://github.com/MohammadSyed18/PlannerAI) | C++ scheduling with dependency validation, availability constraints, task splitting, and JSON export. |
-| [QaidahCoach](https://github.com/MohammadSyed18/QaidahCoach) | Foundational Arabic-reading practice, mixed sessions, mastery tracking, and spaced review. |
+| Project | What I built | Implementation |
+| --- | --- | --- |
+| [Unplugged](https://github.com/MohammadSyed18/Unplugged) | React Native / Expo focus app with persistent session recovery, interruption tracking, goals, streaks, and history-based insights. | [Browse code](https://github.com/MohammadSyed18/Unplugged/tree/main/src) |
+| [BridgeAI](https://github.com/MohammadSyed18/BridgeAI) | School notices turned into cited answers, next steps, and calendar deadlines, with validated updates and audience-aware retrieval. | [Browse code](https://github.com/MohammadSyed18/BridgeAI/tree/main/src) |
+| [LocalLens](https://github.com/MohammadSyed18/LocalLens) | Community notices condensed into personalized briefings, with source attribution, duplicate detection, and accessible output. | [Browse code](https://github.com/MohammadSyed18/LocalLens/tree/main/src) |
+| [Vanguard26](https://github.com/MohammadSyed18/Vanguard26) | Java code for our community FTC team: mecanum drive, mechanism controls, and Pedro Pathing autonomous routines. | [Browse code](https://github.com/MohammadSyed18/Vanguard26/tree/Vanguard2/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) |
+| [ARISE](https://github.com/MohammadSyed18/ARISE-experiment) | Evidence graphs, atomic belief revision, provenance explanations, revision-impact analysis, and paired scenario evaluation. | [Browse code](https://github.com/MohammadSyed18/ARISE-experiment/tree/main/arise) |
+| [AccessPath](https://github.com/MohammadSyed18/AccessPath) | Constraint-aware routing and multi-stop itineraries, with mobility profiles and accessible directions. | [Browse code](https://github.com/MohammadSyed18/AccessPath/tree/main/accesspath) |
+| [PlannerAI](https://github.com/MohammadSyed18/PlannerAI) | C++ scheduling with dependency validation, availability constraints, task splitting, and JSON export. | [Browse code](https://github.com/MohammadSyed18/PlannerAI/tree/main/src) |
+| [QaidahCoach](https://github.com/MohammadSyed18/QaidahCoach) | Foundational Arabic-reading practice, mixed sessions, mastery tracking, and spaced review. | [Browse code](https://github.com/MohammadSyed18/QaidahCoach/tree/main/qaidahcoach) |
 
 ## Beyond the code
 
