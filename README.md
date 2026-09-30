@@ -10,12 +10,12 @@ Java · Python · C++ · TypeScript · JavaScript · React Native · Expo
 | --- | --- | --- |
 | [Unplugged](https://github.com/MohammadSyed18/Unplugged) | React Native / Expo focus app with persistent session recovery, interruption tracking, goals, streaks, and history-based insights. | [Browse code](https://github.com/MohammadSyed18/Unplugged/tree/main/src) |
 | [BridgeAI](https://github.com/MohammadSyed18/BridgeAI) | School notices turned into cited answers, next steps, and calendar deadlines, with validated updates and audience-aware retrieval. | [Browse code](https://github.com/MohammadSyed18/BridgeAI/tree/main/src) |
-| [LocalLens](https://github.com/MohammadSyed18/LocalLens) | Community notices condensed into personalized briefings, with source attribution, duplicate detection, and accessible output. | [Browse code](https://github.com/MohammadSyed18/LocalLens/tree/main/src) |
-| [Vanguard26](https://github.com/MohammadSyed18/Vanguard26) | Java code for our community FTC team: mecanum drive, mechanism controls, and Pedro Pathing autonomous routines. | [Browse code](https://github.com/MohammadSyed18/Vanguard26/tree/Vanguard2/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) |
-| [ARISE](https://github.com/MohammadSyed18/ARISE-experiment) | Evidence graphs, atomic belief revision, provenance explanations, revision-impact analysis, and paired scenario evaluation. | [Browse code](https://github.com/MohammadSyed18/ARISE-experiment/tree/main/arise) |
-| [AccessPath](https://github.com/MohammadSyed18/AccessPath) | Constraint-aware routing and multi-stop itineraries, with mobility profiles and accessible directions. | [Browse code](https://github.com/MohammadSyed18/AccessPath/tree/main/accesspath) |
-| [PlannerAI](https://github.com/MohammadSyed18/PlannerAI) | C++ scheduling with dependency validation, availability constraints, task splitting, and JSON export. | [Browse code](https://github.com/MohammadSyed18/PlannerAI/tree/main/src) |
-| [QaidahCoach](https://github.com/MohammadSyed18/QaidahCoach) | Foundational Arabic-reading practice, mixed sessions, mastery tracking, and spaced review. | [Browse code](https://github.com/MohammadSyed18/QaidahCoach/tree/main/qaidahcoach) |
+| [LocalLens](https://github.com/MohammadSyed18/LocalLens) | Community notices with personalized briefings, a saved reading inbox, read/unread state, RSS, and original source links. | [Browse code](https://github.com/MohammadSyed18/LocalLens/tree/main/src) |
+| [Vanguard26](https://github.com/MohammadSyed18/Vanguard26) | Java FTC controls, Pedro Pathing routines, tested drive envelopes, and optional encoder/IMU localization and heading helpers. | [Browse code](https://github.com/MohammadSyed18/Vanguard26/tree/Vanguard2/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) |
+| [ARISE](https://github.com/MohammadSyed18/ARISE-experiment) | Evidence graphs, atomic belief revision, provenance analysis, paired evaluations, and replay-verified experiment archives. | [Browse code](https://github.com/MohammadSyed18/ARISE-experiment/tree/main/arise) |
+| [AccessPath](https://github.com/MohammadSyed18/AccessPath) | Constraint-aware routing, alternatives, mobility profiles, reachable-area analysis, and connection-outage impact reports. | [Browse code](https://github.com/MohammadSyed18/AccessPath/tree/main/accesspath) |
+| [PlannerAI](https://github.com/MohammadSyed18/PlannerAI) | C++ scheduling with dependencies, energy-aware availability, fixed-commitment subtraction, task splitting, and independent plan audits. | [Browse code](https://github.com/MohammadSyed18/PlannerAI/tree/main/src) |
+| [QaidahCoach](https://github.com/MohammadSyed18/QaidahCoach) | Foundational Arabic-reading practice, durable graded quizzes, mastery tracking, and idempotent spaced-review integration. | [Browse code](https://github.com/MohammadSyed18/QaidahCoach/tree/main/qaidahcoach) |
 
 ## Beyond the code
 
@@ -29,6 +29,6 @@ Setup instructions, usage examples, and current capabilities are documented in e
 
 ## Client-work systems
 
-- [Property CRM](https://github.com/MohammadSyed18/property-crm) — lead stages, property-scoped document search, optimistic updates, and audit events.
-- [Restaurant Service](https://github.com/MohammadSyed18/restaurant-service) — responsive menus, pickup-slot reservations, inventory, and idempotent order submission.
-- [Media Workflows](https://github.com/MohammadSyed18/media-workflows) — FFmpeg renditions, poster extraction, content-addressed outputs, and lazy video loading.
+- [Property CRM](https://github.com/MohammadSyed18/property-crm) — lead stages, property-scoped search, follow-ups, conflict-checked tour reservations, and tenant-scoped audit events.
+- [Restaurant Service](https://github.com/MohammadSyed18/restaurant-service) — responsive menus, inventory, idempotent orders, atomic pickup rescheduling, and reservation audits.
+- [Media Workflows](https://github.com/MohammadSyed18/media-workflows) — FFmpeg renditions, content-addressed outputs, a durable job queue, lease/cancellation controls, and lazy video loading.
