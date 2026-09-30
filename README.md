@@ -12,19 +12,10 @@ Java · Python · C++ · TypeScript · JavaScript · React Native · Expo
 | [BridgeAI](https://github.com/MohammadSyed18/BridgeAI) | School notices turned into cited answers, deadlines, and next steps. Local retrieval with English/Spanish query normalization. |
 | [LocalLens](https://github.com/MohammadSyed18/LocalLens) | Community notices condensed into personalized briefings, with source attribution, duplicate detection, and accessible output. |
 | [Vanguard26](https://github.com/MohammadSyed18/Vanguard26) | Java code for our community FTC team: mecanum drive, mechanism controls, and Pedro Pathing autonomous routines. |
-| [ARISE](https://github.com/MohammadSyed18/ARISE-experiment) | An experiment in tracking claims, evidence, confidence, and revisions. The current adapter is deterministic and rule-based. |
+| [ARISE](https://github.com/MohammadSyed18/ARISE-experiment) | Evidence graphs, validated belief revision, confidence aggregation, and round-level evaluation. |
+| [AccessPath](https://github.com/MohammadSyed18/AccessPath) | Constraint-aware routing and multi-stop itineraries, with mobility profiles and accessible directions. |
+| [PlannerAI](https://github.com/MohammadSyed18/PlannerAI) | C++ scheduling with dependency validation, availability constraints, task splitting, and JSON export. |
 | [QaidahCoach](https://github.com/MohammadSyed18/QaidahCoach) | Foundational Arabic-reading practice, mixed sessions, mastery tracking, and spaced review. |
-
-Also: [AccessPath](https://github.com/MohammadSyed18/AccessPath) for accessibility-aware route planning and [PlannerAI](https://github.com/MohammadSyed18/PlannerAI) for dependency-aware C++ scheduling.
-
-## Work over time
-
-- **2023:** QaidahCoach work beginning in November.
-- **2024:** LocalLens work in December; competitive programming and USACO.
-- **2025:** Unplugged and community FTC programming.
-- **2026:** BridgeAI, continued LocalLens work, AI research, and robotics.
-
-These projects span school breaks, summer work, and weekends. Several were uploaded to GitHub after development began. [Project timeline and date notes](TIMELINE.md).
 
 ## Beyond the code
 
@@ -34,4 +25,10 @@ I lead Stratum AI Labs, teach Java through our UIL Computer Science team, and co
 - BridgeAI — 2026 USAII Global AI Hackathon high school finalist.
 - LocalLens — 2026 Youth Code x AI Most Impactful Award.
 
-Some repositories are prototypes or use synthetic data. Each project's README describes its setup, current scope, and unfinished parts.
+Setup instructions, usage examples, and current capabilities are documented in each repository.
+
+## Client-work systems
+
+- [Property CRM](https://github.com/MohammadSyed18/property-crm) — lead stages, property-scoped document search, optimistic updates, and audit events.
+- [Restaurant Service](https://github.com/MohammadSyed18/restaurant-service) — responsive menus, pickup-slot reservations, inventory, and idempotent order submission.
+- [Media Workflows](https://github.com/MohammadSyed18/media-workflows) — FFmpeg renditions, poster extraction, content-addressed outputs, and lazy video loading.
