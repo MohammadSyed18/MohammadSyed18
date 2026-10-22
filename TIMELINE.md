@@ -23,12 +23,12 @@ This is a retrospective record of project work assembled from my recollection an
 
 Implementation commits in the dated project repositories use reconstructed development dates. The month or year comes from the periods above; the specific day and time are approximate anchors, not recovered daily activity records.
 
-October 2026 documentation edits retain their actual dates. Other contributors' timestamps are preserved. The SurfaceGame month applies to my initial implementation, while its later contributor update keeps its existing date.
+Separate October entries authored by me have been folded into retrospective archive snapshots while preserving the current files. Snapshot commits are explicitly labeled: they are generated views of the project archive on approximate dates, not recovered records of individual coding sessions. Original third-party and collaborator histories remain attributed to their authors.
 
-Original histories are retained on an `archive/before-project-periods-2026-10-22` branch in the fourteen adjusted project repositories. Earlier backups also remain available.
+Original histories are retained on archive branches and in local backups. The latest full backup branch is `archive/before-retrospective-snapshots-2026-10-22`.
 
 Repository creation dates represent when repositories were created on GitHub. A contribution count measures GitHub activity rather than hours spent building a project.
 
 ## Calendar visualization
 
-[Development calendar, 2023–2026](https://github.com/MohammadSyed18/development-timeline-2023-2026) contains a GitHub Spray visualization with mixed activity levels, usually two or three days apart, occasional consecutive days, and longer breaks. Its 3,168 calendar commits are generated; their exact dates and counts are illustrative rather than a recovered daily coding log.
+[Development calendar, 2023–2026](https://github.com/MohammadSyed18/development-timeline-2023-2026) contains a GitHub Spray visualization with mixed activity levels, usually two or three days apart, occasional consecutive days, and longer breaks. May and June are lighter, and October is excluded from the generated calendar. Its 2,475 calendar commits are generated; their exact dates and counts are illustrative rather than a recovered daily coding log.
