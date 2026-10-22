@@ -1,25 +1,34 @@
 # Project timeline
 
-This is a retrospective record of project work, assembled from my recollection and expanded résumé in October 2026. GitHub upload dates can be later than the development period.
+This is a retrospective record of project work assembled from my recollection and expanded résumé in October 2026. Projects can predate their GitHub uploads.
 
-| Period | Work | Basis |
+| Period | Project or work | Basis |
 | --- | --- | --- |
-| November 2023 | QaidahCoach: foundational Arabic-reading practice | Recalled project month |
-| December 2024 | LocalLens: community-information project | Recalled project month; later recognition in 2026 |
-| December 2024 | USACO competitive programming | Existing dated repository history |
-| Summer 2025 | Unplugged: focus and digital wellness app | Recalled summer/weekend work; 2025 competition year |
-| 2025–2026 | FTC robotics: mechanisms, driving, autonomous navigation | Existing dated team history |
-| Summer 2026 | BridgeAI: school-notice retrieval prototype | Recalled summer/weekend work; 2026 competition year |
-| 2026 | Continued LocalLens work and recognition; AI research | Expanded résumé and current repository work |
+| November 2023 | QaidahCoach; PlannerAI | Recalled project months |
+| January 2024 | ScholarGraph | Recalled project month |
+| May 2024 | FTC-MatchLab | Recalled project month |
+| September 2024 | SurfaceGame | Recalled project month |
+| November 2024 | AccessPath | Recalled project month |
+| December 2024 | LocalLens; Youth | Recalled project months |
+| December 2024 | USACO | Existing dated repository history |
+| July 2025 | Unplugged; Maimunas-thing | Recalled summer work; Unplugged's 2025 competition year |
+| August 2025 | NetworkWatch | Recalled project month |
+| December 2025 | Volunteerops | Recalled project month |
+| 2025–2026 | Community FTC robotics | Existing dated team history |
+| January 2026 | Septemberzv5 | Recalled project month |
+| July 2026 | BridgeAI | Recalled summer work; 2026 competition year |
+| 2026 | ARISE; Stratum AI Labs; Daughters of Legends | Recent work confirmed in recollection and résumé |
 
 ## Dates in the repositories
 
-The initial implementation commits in QaidahCoach, LocalLens, Unplugged, and BridgeAI use reconstructed development dates. The month or year comes from the periods above; the specific day and time are approximate anchors, not recovered daily activity records. Later feature and documentation updates retain their existing timestamps.
+Implementation commits in the dated project repositories use reconstructed development dates. The month or year comes from the periods above; the specific day and time are approximate anchors, not recovered daily activity records.
 
-Original histories are retained on an `archive/before-date-reconstruction-2026-10-22` branch in each of those four repositories.
+October 2026 documentation edits retain their actual dates. Other contributors' timestamps are preserved. The SurfaceGame month applies to my initial implementation, while its later contributor update keeps its existing date.
 
-Repository creation dates still represent when the repositories were created on GitHub. A contribution count measures GitHub activity rather than hours spent building a project.
+Original histories are retained on an `archive/before-project-periods-2026-10-22` branch in the fourteen adjusted project repositories. Earlier backups also remain available.
+
+Repository creation dates represent when repositories were created on GitHub. A contribution count measures GitHub activity rather than hours spent building a project.
 
 ## Calendar visualization
 
-[Development calendar, 2023–2026](https://github.com/MohammadSyed18/development-timeline-2023-2026) contains a GitHub Spray visualization based on the broad work periods above, with mixed low, medium, and high activity levels across 2023–2026 with activity usually two or three days apart, occasional consecutive days, and longer breaks. Its 3,168 calendar commits are generated; their exact dates and counts are illustrative rather than a recovered daily coding log.
+[Development calendar, 2023–2026](https://github.com/MohammadSyed18/development-timeline-2023-2026) contains a GitHub Spray visualization with mixed activity levels, usually two or three days apart, occasional consecutive days, and longer breaks. Its 3,168 calendar commits are generated; their exact dates and counts are illustrative rather than a recovered daily coding log.
