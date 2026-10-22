@@ -22,4 +22,4 @@ Repository creation dates still represent when the repositories were created on 
 
 ## Calendar visualization
 
-[Development calendar, 2023–2026](https://github.com/MohammadSyed18/development-timeline-2023-2026) contains a GitHub Spray visualization based on the broad work periods above, with a denser 2023–2024 pattern and more weekend and summer activity in 2025–2026. Its 2,516 calendar commits are generated; their exact dates and counts are illustrative rather than a recovered daily coding log.
+[Development calendar, 2023–2026](https://github.com/MohammadSyed18/development-timeline-2023-2026) contains a GitHub Spray visualization based on the broad work periods above, with mixed low, medium, and high activity levels across 2023–2026 and occasional gaps. Its 6,600 calendar commits are generated; their exact dates and counts are illustrative rather than a recovered daily coding log.
