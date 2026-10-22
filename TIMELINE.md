@@ -19,3 +19,7 @@ The initial implementation commits in QaidahCoach, LocalLens, Unplugged, and Bri
 Original histories are retained on an `archive/before-date-reconstruction-2026-10-22` branch in each of those four repositories.
 
 Repository creation dates still represent when the repositories were created on GitHub. A contribution count measures GitHub activity rather than hours spent building a project.
+
+## Calendar visualization
+
+[Development calendar, 2023–2026](https://github.com/MohammadSyed18/development-timeline-2023-2026) contains a GitHub Spray visualization based on the broad work periods above, with more activity on weekends and during summer. Its 531 calendar commits are generated; their exact dates and counts are illustrative rather than a recovered daily coding log.
